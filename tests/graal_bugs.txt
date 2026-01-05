@@ -90,6 +90,7 @@ memslice
 closure_tests_4_def_to_cdef
 extern_builtins_T258
 large_integer_T5290
+del_temp_slice
 
 # appears to run forever
 common_include_dir
@@ -106,3 +107,4 @@ pep526_variable_annotations_cy
 # UnsupportedSpecializationException
 test_carray_forin_constant_char_7_constant
 args_kwargs
+dict_iter
