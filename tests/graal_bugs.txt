@@ -101,3 +101,7 @@ datetime_pxd
 parallel
 pep526_variable_annotations_cy
 ‘__pyx_f_22pure_nogil_conditional_f_with_gil’
+
+
+# UnsupportedSpecializationException
+test_carray_forin_constant_char_7_constant 
