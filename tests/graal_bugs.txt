@@ -113,5 +113,9 @@ pep526_variable_annotations_cy
 # UnsupportedSpecializationException
 test_carray_forin_constant_char_7_constant
 args_kwargs
-fused_def
 py_enumerate_dict
+test_literal_genexpr_literal_int_266_literal
+fused_types
+fused_def
+fused_cpdef
+dict_iter
