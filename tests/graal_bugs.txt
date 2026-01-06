@@ -121,3 +121,7 @@ fused_cpdef
 dict_iter
 iterdict
 iter_declared_dict
+iterdict_dictcomp
+
+# IllegalMonitorStateException
+test_release_gil_in_nogil 
