@@ -46,7 +46,9 @@ listcomp
 test_wraparound_signed
 test_release_gil_in_nogil
 pep442_tp_finalize
-
+object_float
+py_div_long
+assert_multi_step_code_object_reuse 
 
 # probably just GC?
 double_dealloc_T796
@@ -92,6 +94,9 @@ extern_builtins_T258
 large_integer_T5290
 del_temp_slice
 decorators_T593
+int_literals
+py_mix_by_neg1
+cpython_capi
 
 # appears to run forever
 common_include_dir
@@ -108,5 +113,5 @@ pep526_variable_annotations_cy
 # UnsupportedSpecializationException
 test_carray_forin_constant_char_7_constant
 args_kwargs
-dict_iter
+fused_def
 py_enumerate_dict
