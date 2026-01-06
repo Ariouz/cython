@@ -119,3 +119,4 @@ fused_types
 fused_def
 fused_cpdef
 dict_iter
+iterdict
