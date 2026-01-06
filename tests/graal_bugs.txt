@@ -109,3 +109,4 @@ pep526_variable_annotations_cy
 test_carray_forin_constant_char_7_constant
 args_kwargs
 dict_iter
+py_enumerate_dict
