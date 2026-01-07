@@ -126,7 +126,8 @@ iterdict_dictcomp
 ticket_124
 genexpr_in_dictcomp_dictiter
 dictcomp
-
+genexpr_in_dictcomp_dictiter
+join_sep_genexpr_dictiter
 
 # IllegalMonitorStateException
 test_release_gil_in_nogil 
