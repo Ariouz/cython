@@ -97,6 +97,7 @@ decorators_T593
 int_literals
 py_mix_by_neg1
 cpython_capi
+test_copy
 
 # appears to run forever
 common_include_dir
@@ -122,6 +123,7 @@ dict_iter
 iterdict
 iter_declared_dict
 iterdict_dictcomp
+ticket_124
 
 # IllegalMonitorStateException
 test_release_gil_in_nogil 
