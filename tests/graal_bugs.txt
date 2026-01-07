@@ -97,7 +97,7 @@ decorators_T593
 int_literals
 py_mix_by_neg1
 cpython_capi
-test_copy
+pyarray
 
 # appears to run forever
 common_include_dir
@@ -121,9 +121,12 @@ fused_def
 fused_cpdef
 dict_iter
 iterdict
-iter_declared_dict
+pep526_variable_annotations
 iterdict_dictcomp
 ticket_124
+genexpr_in_dictcomp_dictiter
+dictcomp
+
 
 # IllegalMonitorStateException
 test_release_gil_in_nogil 
