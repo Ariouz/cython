@@ -98,6 +98,7 @@ int_literals
 py_mix_by_neg1
 cpython_capi
 pyarray
+pyint
 
 # appears to run forever
 common_include_dir
