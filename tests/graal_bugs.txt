@@ -129,7 +129,7 @@ ticket_124
 genexpr_in_dictcomp_dictiter
 dictcomp
 genexpr_in_dictcomp_dictiter
-join_sep_genexpr_dictiter
+unicodemethods
 
 # IllegalMonitorStateException
 test_release_gil_in_nogil 
