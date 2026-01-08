@@ -133,4 +133,7 @@ genexpr_in_dictcomp_dictiter
 unicodemethods
 
 # IllegalMonitorStateException
-test_release_gil_in_nogil 
+test_release_gil_in_nogil
+
+# Function not implemented in GraalPy: PyThread_acquire_lock_timed
+pymutex
