@@ -131,6 +131,7 @@ genexpr_in_dictcomp_dictiter
 dictcomp
 genexpr_in_dictcomp_dictiter
 unicodemethods
+test_dispatch_non_clashing_declarations_repeating_types
 
 # IllegalMonitorStateException
 test_release_gil_in_nogil
