@@ -130,11 +130,15 @@ ticket_124
 dictcomp
 genexpr_in_dictcomp_dictiter
 unicodemethods
-test_dispatch_non_clashing_declarations_repeating_types
+numpy_test
 r_forloop
 
 # IllegalMonitorStateException
 test_release_gil_in_nogil
 
-# Function not implemented in GraalPy: PyThread_acquire_lock_timed
+# Function not implemented in GraalPy:
+# PyThread_acquire_lock_timed
 pymutex
+
+# PyImport_ReloadModule
+reload_ext_module
