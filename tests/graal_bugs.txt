@@ -71,6 +71,7 @@ weakfail
 tp_new
 str_subclass_kwargs
 int_float_builtins_as_casts_T400
+trashcan
 
 # probably just GC?
 double_dealloc_T796
