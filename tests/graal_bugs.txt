@@ -48,7 +48,24 @@ test_release_gil_in_nogil
 pep442_tp_finalize
 object_float
 py_div_long
-assert_multi_step_code_object_reuse 
+assert_multi_step_code_object_reuse
+collect2
+test_weakref
+make_new_args
+test_str_subclass_kwargs
+starargs
+slice_ptr
+reraise
+pep448_extended_unpacking
+nogil
+object_float
+future_division
+ext_auto_richcmp
+enumerate_T316
+embed_modules
+bufaccess
+test_tstring
+test_templatelib
 
 # probably just GC?
 double_dealloc_T796
@@ -138,9 +155,12 @@ ticket_123
 # IllegalMonitorStateException
 test_release_gil_in_nogil
 
-# Function not implemented in GraalPy:
+# Functions not implemented in GraalPy:
 # PyThread_acquire_lock_timed
 pymutex
 
 # PyImport_ReloadModule
 reload_ext_module
+
+# _PyTime_GetSystemClock
+threading_stress_tests
