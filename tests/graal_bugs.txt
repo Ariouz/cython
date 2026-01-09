@@ -133,6 +133,7 @@ unicodemethods
 numpy_test
 r_forloop
 setcomp
+ticket_123
 
 # IllegalMonitorStateException
 test_release_gil_in_nogil
