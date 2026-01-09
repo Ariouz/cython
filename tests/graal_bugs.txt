@@ -66,6 +66,11 @@ embed_modules
 bufaccess
 test_tstring
 test_templatelib
+test_del
+weakfail
+tp_new
+str_subclass_kwargs
+int_float_builtins_as_casts_T400
 
 # probably just GC?
 double_dealloc_T796
@@ -164,3 +169,4 @@ reload_ext_module
 
 # _PyTime_GetSystemClock
 threading_stress_tests
+time_pxd
