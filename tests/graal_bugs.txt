@@ -132,6 +132,7 @@ genexpr_in_dictcomp_dictiter
 unicodemethods
 numpy_test
 r_forloop
+setcomp
 
 # IllegalMonitorStateException
 test_release_gil_in_nogil
