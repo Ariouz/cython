@@ -86,7 +86,6 @@ generators_GH1731
 generators
 funcexcept
 external_ref_reassignment
-dict_iter_new_dict
 code_object_cache
 cdivision_CEP_516
 builtin_float
@@ -170,7 +169,8 @@ test_literal_genexpr_literal_int_266_literal
 fused_types
 fused_def
 fused_cpdef
-[.]dict_iter$
+cython3.dict_iter
+cython3.dict_iter_new_dict
 iterdict
 pep526_variable_annotations
 iterdict_dictcomp
