@@ -95,6 +95,8 @@ memoryview_pep484_typing
 memoryview_in_subclasses
 memoryview
 cythonarray
+dict_iter_unpack
+asyncio_leaks
 
 # probably just GC?
 double_dealloc_T796
