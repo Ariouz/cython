@@ -169,8 +169,6 @@ test_literal_genexpr_literal_int_266_literal
 fused_types
 fused_def
 fused_cpdef
-cython3.dict_iter
-cython3.dict_iter_new_dict
 iterdict
 pep526_variable_annotations
 iterdict_dictcomp
@@ -196,3 +194,6 @@ reload_ext_module
 # _PyTime_GetSystemClock
 threading_stress_tests
 time_pxd
+
+# cannot import name '_excepthook' from '_thread' (unknown location)
+cython3[.]dict_iter
