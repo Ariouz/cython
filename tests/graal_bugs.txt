@@ -72,6 +72,29 @@ tp_new
 str_subclass_kwargs
 int_float_builtins_as_casts_T400
 trashcan
+tryfinally
+tryfinallychaining
+python_bool_type
+pyclass_special_methods
+py35_pep492_interop
+list_pop
+index
+importfrom
+genexpr_iterable_lookup_T600
+generators_in_refcycles
+generators_GH1731
+generators
+funcexcept
+external_ref_reassignment
+dict_iter_new_dict
+code_object_cache
+cdivision_CEP_516
+builtin_float
+numpy_memoryview
+memoryview_pep484_typing
+memoryview_in_subclasses
+memoryview
+cythonarray
 
 # probably just GC?
 double_dealloc_T796
@@ -145,7 +168,7 @@ test_literal_genexpr_literal_int_266_literal
 fused_types
 fused_def
 fused_cpdef
-dict_iter
+[.]dict_iter$
 iterdict
 pep526_variable_annotations
 iterdict_dictcomp
