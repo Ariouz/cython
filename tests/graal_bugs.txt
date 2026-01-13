@@ -196,4 +196,4 @@ threading_stress_tests
 time_pxd
 
 # cannot import name '_excepthook' from '_thread' (unknown location)
-[.]dict_iter
+cython3[.]
